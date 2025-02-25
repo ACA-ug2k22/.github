@@ -9,10 +9,10 @@ additional features including Scoreboarding and Register Renaming.
 This project consisted of three phases and each phase consists of a
 presentation file. Also contiains a final report:
 
--   `[presentation-1.pdf](../presentation-1.pdf)`
--   `[presentation-2.pdf](../presentation-2.pdf)`
--   `[presentation-3.pdf](../presentation-3.pdf)`
--   `[final-report.pdf](../final-report.pdf)`
+-   [`presentation-1.pdf`](../presentation-1.pdf)
+-   [`presentation-2.pdf`](../presentation-2.pdf)
+-   [`presentation-3.pdf`](../presentation-3.pdf)
+-   [`final-report.pdf`](../final-report.pdf)
 
 ## Source Code
 
